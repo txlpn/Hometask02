@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\Server\bin\Debug\Server.exe.config
+C:\Users\ganie\source\repos\Server\bin\Debug\Server.exe
+C:\Users\ganie\source\repos\Server\bin\Debug\Server.pdb
+C:\Users\ganie\source\repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\Server\obj\Debug\Server.exe
+C:\Users\ganie\source\repos\Server\obj\Debug\Server.pdb
